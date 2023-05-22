@@ -1,8 +1,8 @@
-🕒 ## Flutter Analog Clock App
+## Flutter Analog Clock App 🕒 
 
 A beautiful and interactive analog clock app built with Flutter. 🌟
 
-##!Demo
+## Demo
 [Analog Clock App Demo](https://github.com/sitharaj88/flutter-awesome-collections/blob/main/analog_clock/flutter_analog_demo.gif.gif)
 
 ## Features
