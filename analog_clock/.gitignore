@@ -1,0 +1,52 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework
+ios/Flutter/flutter_assets/
+macos/Flutter/Flutter.podspec
+macos/Flutter/Flutter.podspec.lock
+.vscode/
+android/app/debug.keystore
+android/app/key.properties
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.bak
+
+# Android specific
+android/app/src/main/assets/flutter_assets/
+android/app/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+
+# iOS specific
+ios/Flutter/App.framework/Info.plist
+ios/Flutter/App.framework/flutter_assets/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS specific
+macos/Flutter/Flutter.xcworkspace/
+macos/Flutter/Flutter.xcodeproj/
+macos/Podfile.lock
+
+# Web specific
+web/flutter_service_worker.js
+web/packages/
+
+# General
+*.swp
+*~
+.DS_Store
